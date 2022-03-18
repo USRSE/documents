@@ -2,7 +2,7 @@
 
 ## Membership and Governance
 
-Date: April 16, 2021
+Date: March 17, 2022
 
 ### Organizational Mission
 
@@ -11,9 +11,13 @@ strives to:
 
 * provide a coherent professional community in the United States for those who identify as a
     Research Software Engineer (RSE),
-* advocate for RSE professionals, and
+* advocate for RSE professionals,
 * provide resources to support and advance RSEs and the RSE career path within the United States
-    research ecosystem.
+    research ecosystem, and
+* promote and encourage diversity, equity, and inclusion (DEI) throughout our organization and the broader
+    United States RSE community.
+
+For more information, see our [Mission Statement](https://us-rse.org/about/mission/) and [DEI Mission Statement](https://us-rse.org/about/dei-mission/).
 
 ### Code of Conduct
 
@@ -46,7 +50,8 @@ member in good standing will be entitled to one vote.
 
 ### Steering Committee Roles and Number
 
-The Steering Committee consists of nine seats.
+The Steering Committee consists of nine seats.  The list of current and past [Steering Committee Members](https://us-rse.org/about/steering-committee/)
+and meeting minutes are available publicly.
 
 The Steering Committee has the following roles:
 
