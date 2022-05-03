@@ -22,10 +22,11 @@ The US-RSE Association requires all members to adhere to the
 
 ### Membership
 
-Membership is open to anyone who supports the mission of the US-RSE Association and who agrees to abide by
-the US-RSE Association Code of Conduct. As stated in our Code of Conduct, we welcome and encourage
-members regardless of gender, gender identity and expression, sexual orientation, disability,
-physical appearance, body size, race, age, religion, or national and ethnic origin.
+Membership is open to anyone who supports the mission of the US-RSE Association and who agrees to
+abide by the US-RSE Association Code of Conduct. As stated in our Code of Conduct, we welcome and
+respect individuals of all dimensions of diversity, including but not limited to race, color, caste,
+economic status, gender expression, gender identity, sexual orientation, disability, neurocognitive
+differences, age, religion (or lack thereof), national origin, and ethnicity.
 
 Individuals may apply for membership by submitting the required [membership
 form](https://docs.google.com/forms/d/e/1FAIpQLSdJbPczGHFN8mfMFu_YQym508OzFtOZxfSzr1sOoINxaMmiaw/viewform).
@@ -115,8 +116,7 @@ The Chair is responsible for reporting on US-RSE activities over the past year a
 
 In the event of the absence of the Chair, the Vice Chair will preside at meetings. The Vice Chair
 will be responsible for ensuring the community is kept informed of Association activities through
-regular newsletters, social media posts, etc. In addition, the Vice Chair will annually prepare a
-report of Association activities in the past year.
+regular newsletters, social media posts, etc.
 
 #### Election Chair
 
