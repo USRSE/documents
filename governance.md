@@ -12,7 +12,7 @@ strives to:
 * provide a coherent professional community in the United States for those who identify as a
     Research Software Engineer (RSE),
 * advocate for RSE professionals, 
-* provide resources to support and advance RSEs and the RSE career path within the United States research ecosystem, and
+* provide resources to support and advance RSEs and the RSE career path within the United States research ecosystem
 * promote and encourage diversity, equity, and inclusion (DEI) throughout our organization and the broader United States RSE community.
 
 ### Code of Conduct
