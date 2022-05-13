@@ -2,7 +2,7 @@
 
 ## Membership and Governance
 
-Date: April 16, 2021
+Date: May 2, 2022
 
 ### Organizational Mission
 
@@ -11,22 +11,22 @@ strives to:
 
 * provide a coherent professional community in the United States for those who identify as a
     Research Software Engineer (RSE),
-* advocate for RSE professionals, and
-* provide resources to support and advance RSEs and the RSE career path within the United States
-    research ecosystem.
+* advocate for RSE professionals, 
+* provide resources to support and advance RSEs and the RSE career path within the United States research ecosystem
+* promote and encourage diversity, equity, and inclusion (DEI) throughout our organization and the broader United States RSE community.
 
 ### Code of Conduct
 
 The US-RSE Association requires all members to adhere to the
-[US-RSE Code of Conduct](https://us-rse.org/code-of-conduct/) in all US-RSE activities, forums,
-and communications.
+[US-RSE Code of Conduct](https://us-rse.org/code-of-conduct/) in all US-RSE activities, forums, and communications.
 
 ### Membership
 
-Membership is open to anyone who supports the mission of the US-RSE Association and who agrees to abide by
-the US-RSE Association Code of Conduct. As stated in our Code of Conduct, we welcome and encourage
-members regardless of gender, gender identity and expression, sexual orientation, disability,
-physical appearance, body size, race, age, religion, or national and ethnic origin.
+Membership is open to anyone who supports the mission of the US-RSE Association and who agrees to
+abide by the US-RSE Association Code of Conduct. As stated in our Code of Conduct, we welcome and
+respect individuals of all dimensions of diversity, including but not limited to race, color, caste,
+economic status, gender expression, gender identity, sexual orientation, disability, neurocognitive
+differences, age, religion (or lack thereof), national origin, and ethnicity.
 
 Individuals may apply for membership by submitting the required [membership
 form](https://docs.google.com/forms/d/e/1FAIpQLSdJbPczGHFN8mfMFu_YQym508OzFtOZxfSzr1sOoINxaMmiaw/viewform).
@@ -38,6 +38,8 @@ US-RSE communication channels.
 Members are considered in “good standing” if they have supplied correct membership information
 during their application and are not subject to any form of sanction, suspension or disciplinary
 censure.
+
+Once a year, an Annual General Meeting of the membership will be held to update the members on US-RSE activities and provide an opportunity for members to raise new business or proposals.  
 
 ### Voting
 
@@ -90,21 +92,31 @@ available.
 
 ### Steering Committee Officers
 
-Officers consist of a Chair, a Vice-Chair, an Election Chair, a Treasurer, and a Secretary, elected by the Steering
+Officers consist of:
+
+* Chair
+* Vice Chair
+* Election Chair
+* Treasurer
+* Secretary
+* 2 International Council of RSE Associations Representatives
+
+These positions are elected by the Steering
 Committee. Officer elections will be held at the meeting following the election of new members to
 the Steering Committee.
 
 #### Chair
 
-The Chair will set the agenda and preside over Steering Committee meetings or arrange for the Vice-
-Chair or another Steering Committee member to do so.
+The Chair will set the agenda and preside over Steering Committee meetings or arrange for the Vice 
+Chair or another Steering Committee member to do so.  
+The Chair is responsible for convening the Annual General Meeting of the membership.  
+The Chair is responsible for reporting on US-RSE activities over the past year at the Annual General Meeting.
 
-#### Vice-Chair
+#### Vice Chair
 
-In the event of the absence of the Chair, the Vice-Chair will preside at meetings. The Vice-Chair
+In the event of the absence of the Chair, the Vice Chair will preside at meetings. The Vice Chair
 will be responsible for ensuring the community is kept informed of Association activities through
-regular newsletters, social media posts, etc. In addition, the Vice-Chair will annually prepare a
-report of Association activities in the past year.
+regular newsletters, social media posts, etc.
 
 #### Election Chair
 
@@ -119,13 +131,20 @@ The Treasurer will be responsible for the finances of the US-RSE Association. Th
 overall budget for approval by the Steering Committee in advance of the Annual General Meeting, and
 then present this budget to the US-RSE membership in the Annual General Meeting.
 The Treasurer additionally has the authority to authorize spending (as previously approved in the budget)
-of US-RSE funds held by our Fiscal Sponsor, as do the Chair and Vice-Chair.
+of US-RSE funds held by our Fiscal Sponsor, as do the Chair and Vice Chair.
 
 #### Secretary
 
 The Secretary will be responsible for ensuring that notes are taken in each meeting of the Committee
 and published after the meeting. In the absence of the Secretary, the presiding officer of the
 meeting will appoint another member to take on this responsibility.
+
+#### International Council of RSE Associations Representatives
+
+Two members of the Steering Committee will be appointed as representatives to the [International Council of RSE Associations](https://researchsoftware.org/council.html).  
+They are expected to attend council meetings and coordinate US-RSE activities with other RSE associations.
+
+
 
 ### Resignations
 
@@ -137,7 +156,7 @@ specified, formal acceptance of the resignation is not necessary.
 ### Removal
 
 Steering Committee members can be removed by a two-thirds (⅔) vote of the full Steering Committee.
-In the event that that Committee is considering the removal of the Chair, the Vice-Chair will
+In the event that that Committee is considering the removal of the Chair, the Vice Chair will
 preside.
 
 ### Vacancies
@@ -168,29 +187,16 @@ a vote of the membership directly.
 
 ## Ratification
 
-This document, adding the treasurer role, was ratified by the following members of the US-RSE Steering Committee
-on April 16, 2021:
+This version of the document was ratified by the following members of the US-RSE Steering Committee:
 
+* Nicole Brewer, Purdue University
 * Jeff Carver, University of Alabama
 * Ian Cosden, Princeton University
 * Julia Damerow, Arizona State University
-* Charles Ferenbaugh, Los Alamos National Laboratory
 * Sandra Gesing, University of Notre Dame
 * Chris Hill, MIT
 * Daniel S. Katz, University of Illinois at Urbana-Champaign
 * Christina Maimone, Northwestern University
 * Lance Parsons, Princeton University
 
-
-The previous (and original) version of this document was ratified by the following members of the First US-RSE Steering Committee on June
-29, 2020:
-
-* Jeff Carver, University of Alabama
-* Ian Cosden, Princeton University
-* Charles Ferenbaugh, Los Alamos National Laboratory
-* Sandra Gesing, University of Notre Dame
-* Chris Hill, MIT
-* Daniel S. Katz, University of Illinois at Urbana-Champaign
-* Christina Maimone, Northwestern University
-* Lance Parsons, Princeton University
-* Jordan Perr-Sauer, National Renewable Energy Laboratory
+The [US-RSE document repository](https://github.com/USRSE/documents) contains the previous versions and ratification history.  The first version of this document was ratified on June 29, 2020.  
