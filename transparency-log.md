@@ -19,7 +19,7 @@ necessary.
 
 ## Code of Conduct Reports and Responses
 
-Updated as of June 30, 2022
+Updated as of June 30, 2022. Reports listed in reverse chronological order.
 
 ### May 9, 2022
 
