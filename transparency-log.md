@@ -6,12 +6,12 @@ anyone participating in any US-RSE-related activities, anyone claiming
 affiliation with the US-RSE, and especially anyone representing the US-RSE
 Association in any role (including as a volunteer or speaker).
 
-This log serves to inform the US-RSE community about all responses to code of
-conduct reports in a public, aggregated, and anonymized form. We believe that a
+This log serves to inform the US-RSE community about all responses to Code of
+Conduct reports in a public, aggregated, and anonymized form. We believe that a
 community must be able to see that a Code of Conduct is enforced in order for it
-to be effective. Without a visible process potential community members may not
+to be effective. Without a visible process, potential community members may not
 feel comfortable joining. A visible log can also help the community establish
-the social standards expressed in the code of conduct.
+the social standards expressed in the Code of Conduct.
 
 A public record allows the community to monitor the enforcement of the Code of
 Conduct and propose changes to the reporting and enforcement process if
@@ -37,7 +37,7 @@ was the appropriate action. It was decided that no further action was necessary.
 ### January 7, 2021
 
 A message was sent to contact@us-rse.org to report an incident in a 1:1
-interaction in a US-RSE slack DM, with a request to keep the matter private.  A
+interaction in a US-RSE Slack DM, with a request to keep the matter private.  A
 response was sent to the reporter that the code of conduct review group could
 not determine a responsive action that would maintain confidentiality, but that
 a general reminder about the Code of Conduct would be posted to members on Slack
