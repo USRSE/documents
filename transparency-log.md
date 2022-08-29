@@ -15,7 +15,7 @@ the social standards expressed in the Code of Conduct.
 
 A public record allows the community to monitor the enforcement of the Code of
 Conduct and propose changes to the reporting and enforcement process if
-necessary.
+necessary. This log is updated once every six months. 
 
 ## Code of Conduct Reports and Responses
 
