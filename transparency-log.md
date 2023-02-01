@@ -19,7 +19,17 @@ necessary. This log is updated once every six months.
 
 ## Code of Conduct Reports and Responses
 
-Updated as of June 30, 2022. Reports listed in reverse chronological order.
+Updated as of January 27, 2023. Reports listed in reverse chronological order.
+
+### November 7, 2022
+
+A member reported receiving an unusual unsolicited direct message in the US-RSE Slack workspace in September. 
+The reporter did not reply and no action was taken. 
+On November 7, 2022, the same member reported a second Slack direct message from the same user. 
+This unsolicited message consisted of a 56s audio recording. 
+After reviewing the content of the message, the SC determined in consultation with the reporter that no action was warranted at the time. 
+The two incidents have been noted for context in case future incidents involving the reported individual occur.
+
 
 ### May 9, 2022
 
