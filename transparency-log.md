@@ -19,7 +19,15 @@ necessary. This log is updated once every six months.
 
 ## Code of Conduct Reports and Responses
 
-Updated as of January 27, 2023. Reports listed in reverse chronological order.
+Updated as of July 21, 2023. Reports listed in reverse chronological order.
+
+### February 24, 2023
+
+The contact@us-rse.org address received a report of a single individual's potential professional misconduct and academic dishonesty in violation of the Code of Conduct. 
+A request from the Code of Conduct response group to the reported individual went unanswered.
+The subsequent CoC review and investigation concluded that the reported individual’s actions were unethical and unprofessional and therefore violated the Code of Conduct. 
+The reported individual’s membership in US-RSE was suspended for 2 years during which time the individual may not participate in any US-RSE events or communication, in person, virtually, or asynchronously.
+
 
 ### November 7, 2022
 
