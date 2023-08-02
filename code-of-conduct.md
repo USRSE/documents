@@ -1,113 +1,77 @@
-## Diversity Statement
+## Code of Conduct
 
-The US-RSE Association welcomes and encourages participation in our community by people of all backgrounds and identities. We, the members
-of the US-RSE Association, are committed to promoting and sustaining a culture that values mutual respect, tolerance, and learning. We work together as a community to help each other live out these values.
+The Code of Conduct is designed to protect the US-RSE community and its members from physical and psychological harm.
+To this end, we consider the following behaviors unacceptable in any US-RSE community spaces, in person or online:
+- Trolling, insulting or derogatory comments, and personal attacks.
+- Unwanted physical contact, sexual comments, and/or sharing of sexual material, whether in person or online.
+- Stalking or harassment.
+- Refusing to call someone by their preferred name or pronouns (for example, “dead naming”).
+- Threats or incitement of violence.
+- Behavior that could reasonably be considered inappropriate in a professional setting in the United States.
+- Continuing to communicate with someone after they have asked that they not be contacted.
+- Deliberately disclosing information given in private confidence (for example, “outing”), unless it is to report a violation of this code of conduct (for example, harassment).
+- Deliberate attempts to circumvent these enumerated behaviors or otherwise cause harm to the community or its members.
 
-We have created this diversity statement because we believe that a diverse community is stronger, more vibrant, and produces better
-software and better research. A diverse community where people treat each other with respect has more potential contributors,
-more sources for ideas, and fewer shared assumptions that might hinder the achievement of our goals.
+The Code of Conduct will be enforced by the committee (members enumerated below), which is empowered to respond with sanctions to anyone who conducts themselves in any of these ways, such as:
+- Issuance of formal warnings and possible mediation.
+- Removal of responsibilities, privileges, or access to community spaces.
+- Temporary bans from community spaces.
+- Permanent bans from community spaces.
 
-Although we have phrased the formal diversity statement generically to make it all-inclusive, we recognize that there are specific
-identities that are impacted by systemic discrimination and marginalization. We welcome all people to participate in the US-RSE
-Association regardless of their identity or background.
+The Code of Conduct committee will select a Case Lead to serve as a point of contact for a report, and is advised to complete a case within one month when possible.
+The reporter need only contact a member of the committee directly to initiate a report or submit an email to coc@us-rse.org, which should include the answers to these questions:
+- Who performed the violating action?
+  If not known, please supply details to help identify them where possible.
+- What was the violating action?
+- How should we contact you in response to this report?
 
-## Introduction & Scope
+The reporting party/parties will be kept confidential.
+Any committee members involved in the report must recuse themselves from the incident.
+A failure to recuse in such a situation will be considered a Code of Conduct Violation and result in the removal of the committee member by the Steering Committee.
 
-This code of conduct should be honored by everyone who participates in the US-RSE community. It should be honored in any US-RSE-related
-activities, by anyone claiming affiliation with US-RSE, and especially when someone is representing the US-RSE Association in any role (including as an event volunteer or speaker).
+The committee will adjudicate an appropriate response to the incident.
+The committee is responsible for communicating their response and reasoning to the reporter privately.
+Responses must be anonymized and recorded in the transparency log for semi-annual release.
 
-This code of conduct applies to all spaces managed by the US-RSE Association, including all public and private mailing lists, issue
-trackers, wikis, forums, code repositories, and any other communication channel used by our community. The code of conduct equally
-applies at US-RSE Association events and governs standards of behavior for attendees, speakers, volunteers, booth staff, and event
-sponsors.
-
-This code is not exhaustive or complete. It serves to distill our understanding of a collaborative, inclusive community culture. Please
-try to follow this code in spirit as much as in letter, to create a friendly and productive environment that enriches the US-RSE
-community.
-
-We require all US-RSE Association sponsored and affiliated projects, activities, and events, to adopt a code of conduct that encourages a productive, respectful environment for all contributors and community members.
-
-If a person is found to violate the US-RSE Association Code of Conduct, the Steering Committee may take any action they deem appropriate
-to resolve the situation, including warning the person in question, removing them from a specific activity, banning them from further
-participation in activities (in person or online), or expulsion from the US-RSE Association.
-
-## Standards for Behavior
-
-All communication should be appropriate for a professional audience including people of many different backgrounds. Please always be
-kind and courteous. There is never a need to be mean, rude, or disrespectful. Thank you for helping make this a welcoming, friendly
-community for all.
-
-We, the members of the US-RSE Association, strive to:
-
-* Be empathetic, respectful, welcoming, friendly, and patient. We remember that every US-RSE event, project, and program is crafted by
-human beings who deserve to be treated with kindness and empathy. We work together to resolve conflict and assume good intentions. We
-may all experience some frustration from time to time, but we do not allow frustration to turn into a personal attack. A community where
-people feel uncomfortable or threatened is not a productive one.  
-* Be collaborative. Our work depends on the participation of many people, and in turn others depend on our work. Effective and friendly collaboration enables everyone to better achieve their goals.  
-* Be careful in the words that we choose. We are careful and respectful in our communication, and we take responsibility for our own speech. Be kind to others. Do not insult or put down other members of the community.
-
-
-## Unacceptable Behavior
-
-We, the members of the US-RSE Association, are committed to making participation in this community a harassment-free experience.
-
-We will not accept harassment or other exclusionary behaviors, such as:
-* The use of sexualized language or imagery  
-* Excessive profanity (please avoid curse words; people differ greatly in their sensitivity to swearing)  
-* Posting sexually explicit or violent material
-* Violent or intimidating threats or language directed against another person or group
-* Inappropriate physical contact and/or unwelcome sexual attention or sexual comments
-* Sexist, racist, or otherwise discriminatory jokes and language
-* Trolling or insulting and derogatory comments
-* Written or verbal comments which have the effect of excluding people on the basis of membership in a specific group, including level
-of experience, gender, gender identity and expression, sexual orientation, disability, neurotype, personal appearance, body size, race,
-ethnicity, age, religion, or nationality
-* Public or private harassment
-* Continuing to initiate interaction (such as photography, recording, messaging, or conversation) with someone after being asked to stop
-* Sustained disruption of talks, events, or communications, such as heckling of a speaker
-* Publishing (or threatening to post) other people’s personally identifying information (“doxing”), such as physical or electronic
-addresses, without explicit permission
-* Other unethical or unprofessional conduct
-* Advocating for, or encouraging, any of the above behaviors
-
-
-## Reporting Guidelines
-
-If you believe someone is violating the code of conduct, please report this in a timely manner (see How to Submit a Report). Code of
-conduct violations reduce the value of the community for everyone. The US-RSE Association members take reports of misconduct very seriously
-and are committed to preserving and maintaining the welcoming nature of our community.
-
-All complaints will be reviewed and investigated and will result in a response that is deemed necessary and appropriate to the
-circumstances.
-All reports will be kept confidential, with the exception of cases where the Steering Committee determines the report should be shared with law enforcement.
-In those cases, the report will be shared with the proper legal authorities.
-
-In some cases the US-RSE Leadership may determine that a public statement will need to be made. If that’s the case, the identities of
-all involved parties and reporters will remain confidential unless those individuals instruct us otherwise.
-
-For possibly unintentional breaches of the code of conduct, you may want to respond to the person and point out this code of conduct 
-(either in public or in private, whatever is most appropriate). If you would prefer not to do that, please report the issue (see How to 
-Submit a Report) or contact a US-RSE Association Steering Committee member for assistance.
-
-Take care of each other. Alert the US-RSE Association Steering Committee (contact@us-rse.org) if you notice a dangerous situation, 
-someone in distress, or violations of this code of conduct, even if they seem inconsequential.
+## Submitting a Report
 
 ### How to Submit a Report
-If you feel your safety is in jeopardy or the situation is an emergency, contact local law enforcement before making a report to the US-RSE Association. (In the U.S., dial 911.)
 
-The US-RSE Association is committed to promptly addressing any reported issues. If you have experienced or witnessed behavior that violates the US-RSE Association Code of Conduct, please send an email to contact@us-rse.org. These emails are sent to the US-RSE Association Steering Committee.
+If you feel your safety is in jeopardy or the situation is an emergency, contact local law enforcement before making a report to the US-RSE Association.
+In the U.S., dial 911.
 
+The US-RSE Association is committed to promptly addressing any reported issues.
+If you have experienced or witnessed behavior that violates the US-RSE Association Code of Conduct, please send an email to coc@us-rse.org.
+These emails are sent to the US-RSE Code of Conduct Enforcement Committee.
+You may also contact committee members individually in order to initiate a report. 
+
+You will be asked the following questions as part of the reporting process:
+
+- Who performed the violating action?
+  If not known, please supply details to help identify them where possible.
+- What was the violating action?
+- How should we contact you in response to this report?
+
+The reporting party/parties will be kept confidential.
+
+### What to Expect After You Report
+
+The US-RSE Association is committed to promptly addressing any reported issues.
+You will be contacted as quickly as possible by a member of the committee acknowledging your report, and shortly thereafter be appointed a case lead who will be your point of contact throughout the report response process.
+The Case Lead may ask additional questions for clarification.
+After information has been gathered, the Case Lead will inform you of the committee’s decision and the consequences of any violations of the Code of Conduct.
+
+There will be a private record made of the case, to be accessible to all current and future committee members.
+This is to further ensure safety by empowering the committee to identify repeat occurrences or cases where individuals are targeted.
+An anonymized and shortened version of the case added to the transparency log, to be publicly available at the next time the log is shared.
+By keeping a public and anonymized log, we hope to both demonstrate that we take these matters seriously and will be responsive to future violations.
+
+## Proposing Changes to the Code of Conduct
+
+Should changes need to be made to the US-RSE Code of Conduct, US-RSE members may draft a proposed set of changes.
+This can be done by opening a Pull Request to the [US-RSE documents repository](https://github.com/USRSE/documents).
+The Steering Committee must vote on and approve any proposed changes in order for them to be incorporated.
 
 ## License
 
-This code of conduct has been adapted from the NumFocus code of conduct, which was itself adapted from numerous sources, including the
-[Geek Feminism wiki](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy), created by the Ada Initiative and other volunteers, 
-which is under a [Creative Commons Zero license](https://creativecommons.org/share-your-work/public-domain/cc0/), 
-the [Contributor Covenant version 1.2.0](http://contributor-covenant.org/version/1/2/0/), 
-the [Bokeh Code of Conduct](https://github.com/bokeh/bokeh/blob/master/CODE_OF_CONDUCT.md), 
-the [SciPy Code of Conduct](https://github.com/jupyter/governance/blob/master/conduct/enforcement.md),
-the [Carpentries Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html#enforcement-manual),
-and the [NeurIPS Code of Conduct](https://nips.cc/public/CodeOfConduct).
-
 The US-RSE Association Code of Conduct is licensed under a [Creative Commons Attribution 3.0 Unported License](https://creativecommons.org/licenses/by/3.0/).
-
