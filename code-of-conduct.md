@@ -70,6 +70,7 @@ By keeping a public and anonymized log, we hope to both demonstrate that we take
 
 Should changes need to be made to the US-RSE Code of Conduct, US-RSE members may draft a proposed set of changes.
 This can be done by opening a Pull Request to the [US-RSE documents repository](https://github.com/USRSE/documents).
+Your Pull Request should include a well-thought-out justification for the proposed changes.
 The Steering Committee must vote on and approve any proposed changes in order for them to be incorporated.
 
 ## License
