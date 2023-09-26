@@ -1,70 +1,75 @@
 ## Code of Conduct
 
-The Code of Conduct is designed to protect the US-RSE community and its members from physical and psychological harm.
-To this end, we consider the following behaviors unacceptable in any US-RSE community spaces, in person or online:
-- Trolling, insulting or derogatory comments, and personal attacks.
-- Unwanted physical contact, sexual comments, and/or sharing of sexual material, whether in person or online.
-- Stalking or harassment.
-- Refusing to call someone by their preferred name or pronouns (for example, “dead naming”).
-- Threats or incitement of violence.
-- Behavior that could reasonably be considered inappropriate in a professional setting in the United States.
-- Continuing to communicate with someone after they have asked that they not be contacted.
-- Deliberately disclosing information given in private confidence (for example, “outing”), unless it is to report a violation of this code of conduct (for example, harassment).
-- Deliberate attempts to circumvent these enumerated behaviors or otherwise cause harm to the community or its members.
+The United States Research Software Engineer Association (US-RSE) has adopted this Code of Conduct to protect its mission and community, as well as the reputation and integrity of the organization.
+Membership in the organization, access to its spaces, or attendance at its events requires following this Code of Conduct.
+The Code of Conduct applies to all US-RSE spaces and activities, online and in person, as well as to the public behavior of members more generally.
 
-The Code of Conduct will be enforced by the committee (members enumerated below), which is empowered to respond with sanctions to anyone who conducts themselves in any of these ways, such as:
-- Issuance of formal warnings and possible mediation.
-- Removal of responsibilities, privileges, or access to community spaces.
-- Temporary bans from community spaces.
-- Permanent bans from community spaces.
+To protect the integrity and reputation of US-RSE as a professional organization and the safety of all of its members, US-RSE members and participants in US-RSE spaces agree not to engage in harassment or abuse.
+Violations of this Code of Conduct may have consequences ranging from a verbal or written warning and up to revocation of membership in US-RSE or exclusion from US-RSE spaces.
 
-The Code of Conduct committee will select a Case Lead to serve as a point of contact for a report, and is advised to complete a case within one month when possible.
-The reporter need only contact a member of the committee directly to initiate a report or submit an email to coc@us-rse.org, which should include the answers to these questions:
-- Who performed the violating action?
-  If not known, please supply details to help identify them where possible.
-- What was the violating action?
-- How should we contact you in response to this report?
+Code of Conduct violations include but are not limited to the following **examples**:
+- Harassment or abuse.
+- Actions or comments that harm members of traditionally marginalized groups by reinforcing systemic oppression related to gender, gender identity and expression, sexual orientation, disability, mental illness, neuro(a) typicality, physical appearance, body size, age, race, ethnicity, caste, religion, or other marginalized category.
+- Unwanted physical contact or simulated physical contact, including inappropriate engagement in virtual spaces (e.g. textual descriptions like “*backrub*”) without consent or after a request to stop.
+- Non-consensual sexual comments or sharing of sexual material, in person or online.
+- Disruptive or persistent misgendering or use of ‘dead’ or rejected names or gender pronouns.
+- Patterns of inappropriate physical or social contact, such as violation of personal space or boundaries, presumption of or requests for inappropriate levels of intimacy with others, or continuing to communicate with someone against their request.
+- Sustained and/or deliberate disruption of community and organizational activities.
+- Threats of violence, deliberate intimidation, stalking, or impersonation with the intent to harass or violate privacy.
+- Incitement of violence towards any individual or groups of people, including encouraging a person to commit suicide or engage in self-harm.
+- Serious or repeated acts that harm or threaten others or the reputation and integrity of US-RSE.
+- Deliberately disclosing information given in private confidence, unless it is to protect vulnerable people from intentional abuse or report a violation of this code of conduct.
+- The publication of the confidential information of members or the organization without consent, except as necessary to protect vulnerable people from intentional abuse or report a violation of this code of conduct. This includes both information that is labeled as confidential or information that the publisher knows or should know is confidential.
+- Deliberate attempts to circumvent or misuse the Code of Conduct or otherwise cause harm to the community or its members.
 
-The reporting party/parties will be kept confidential.
-Any committee members involved in the report must recuse themselves from the incident.
-A failure to recuse in such a situation will be considered a Code of Conduct Violation and result in the removal of the committee member by the Steering Committee.
+## Acknowledgment of Risk
+This Code of Conduct exists to protect the US-RSE membership and organization from the risk of harassment or injury.
+To protect and mitigate damage to its reputation and that of its individual membership, US-RSE may publicly announce any reports, conclusions, or actions taken in response to reports of violations of the Code of Conduct.
+By participating in US-RSE events, forums, membership, or other spaces, you agree to accept the terms of the Code of Conduct and acknowledge that your voluntary involvement with this public organization or violation of this Code may result in reputational harm, including loss of business, loss of income, or loss of contractual advantage.
+Members and participants also acknowledge that their violation of the Code of Conduct will cause real, significant, and compensable harm to US-RSE’s reputation within the fields of non-profit advocacy and Software Engineering, resulting in US-RSE’s loss of income and contractual advantage.
 
-The committee will adjudicate an appropriate response to the incident.
-The committee is responsible for communicating their response and reasoning to the reporter privately.
-Responses must be anonymized and recorded in the transparency log for semi-annual release.
+## Reporting code of conduct violations
+If you learn about a violation of this Code of Conduct, please inform the Code of Conduct Committee at coc@us-rse.org or reach out individually to any member of the Code of Conduct Committee.
+A list of current Committee members and the best way to contact them can be found here.
+Anonymous reports will be accepted.
+We will strive to keep identifying details of reporters and reports confidential unless we receive a valid court order or have another compelling reason to disclose them.
+To help us respond to your report, please include as much of the following information as possible in your reports:
+- The date and location of the incident
+- A description of the events.
+- The name or identity of the individuals involved in the incident.
+- The names or identities of any other witness to the incident.
+- Any documentation such as emails, private messages, photographs, police reports, texts or notes related to the incident.
+- Information for your preferred method of contact from our Code of Conduct Committee if you wish to or are willing to be contacted for follow up questions.
 
-## Submitting a Report
+## Code of Conduct resposne
+Code of Conduct response
+The Code of Conduct Committee will review all good faith reports and provide a response to the party making the report within two weeks, barring any legal requirement that prevents it.
+US-RSE and the Code of Conduct Committee will endeavor to resolve all Code of Conduct Reports within 60 days of receipt of complaint whenever possible.
 
-### How to Submit a Report
+We will take all good faith reports of code of conduct violations by US-RSE members seriously.
+When responding to reports, we may take into account the behavior of members outside formal US-RSE spaces if in our judgment they are relevant to the US-RSE community.
+US-RSE reserves the right to deny or revoke membership to individuals based on past behavior, including conduct towards people who are not members of US-RSE.
+To preserve the time and resources of the Committee, incidents occurring outside US-RSE spaces should only be reported to the Committee if they have a serious impact on the safety of the US-RSE community.
 
-If you feel your safety is in jeopardy or the situation is an emergency, contact local law enforcement before making a report to the US-RSE Association.
-In the U.S., dial 911.
+In order to preserve the integrity and health of the Code of Conduct Committee, the Code of Conduct Committee and US-RSE reserve the right to reject any report believed to have been made in bad faith or that is otherwise judged not relevant.
+Intentional false reports or reports that serve as a form of harassment/abuse or to silence legitimate criticism are themselves Code of Conduct violations.
 
-The US-RSE Association is committed to promptly addressing any reported issues.
-If you have experienced or witnessed behavior that violates the US-RSE Association Code of Conduct, please send an email to coc@us-rse.org.
-These emails are sent to the US-RSE Code of Conduct Enforcement Committee.
-You may also contact committee members individually in order to initiate a report. 
+Members of the Code of Conduct Committee who have a genuine conflict of interest or otherwise cannot provide a fair assessment of your report will recuse themselves from handling your report.
 
-You will be asked the following questions as part of the reporting process:
+All reports to and deliberations of the Code of Conduct Committee will be kept confidential, and we will not publicly name those who report or experience suspected Code of Conduct violations, with the following limited exceptions.
+The US-RSE Code of Conduct and leadership reserves the right to publicize or inform third parties about an incident, including openly naming the offending party, if we believe that doing so is necessary to preserve the reputation and integrity of US-RSE, will increase the safety of US-RSE members, is required by a valid court order or other statutory requirement, or will increase the safety of the general public.
 
-- Who performed the violating action?
-  If not known, please supply details to help identify them where possible.
-- What was the violating action?
-- How should we contact you in response to this report?
+Once a decision has been reached all copies of the complaint and any related notes or material from investigation and deliberation will be destroyed or deleted, with the following exceptions: a summary for internal use to enforce the code of conduct going forward, anonymized as much as is practical, the summary included in USE-RSE’s annual report, and any document that US-RSE is required to retain by a valid court orders or preservation request.
 
-The reporting party/parties will be kept confidential.
+### Potential Response to Code of Conduct Violations
+US-RSE and its Code of Conduct Committee reserve the right to take any action we believe is necessary to protect US-RSE membership or the organization from harm, including reputational and financial harms. Examples of possible responses to code of conduct violations include but are not limited to:
+- Formal warnings
+- Removal of US-RSE responsibilities, privileges, or access to community spaces
+- Permanent of temporary bans from community spaces
+- Permanent or temporary revocation of membership in US-RSE
+Anonymized summaries of  US-RSE Code of Conduct decisions will be included in our semi-annual transparency report whenever possible.
 
-### What to Expect After You Report
 
-The US-RSE Association is committed to promptly addressing any reported issues.
-You will be contacted as quickly as possible by a member of the committee acknowledging your report, and shortly thereafter be appointed a case lead who will be your point of contact throughout the report response process.
-The Case Lead may ask additional questions for clarification.
-After information has been gathered, the Case Lead will inform you of the committee’s decision and the consequences of any violations of the Code of Conduct.
-
-There will be a private record made of the case, to be accessible to all current and future committee members.
-This is to further ensure safety by empowering the committee to identify repeat occurrences or cases where individuals are targeted.
-An anonymized and shortened version of the case added to the transparency log, to be publicly available at the next time the log is shared.
-By keeping a public and anonymized log, we hope to both demonstrate that we take these matters seriously and will be responsive to future violations.
 
 ## Proposing Changes to the Code of Conduct
 
