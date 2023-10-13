@@ -38,7 +38,7 @@ By participating in US-RSE events, forums, membership, or other spaces, you agre
 Members and participants also acknowledge that their violation of the Code of Conduct will cause real, significant, and compensable harm to US-RSE’s reputation within the fields of non-profit advocacy and Software Engineering, resulting in US-RSE’s loss of income and contractual advantage.
 
 ## Reporting code of conduct violations
-If you learn about a violation of this Code of Conduct, please inform the Code of Conduct Committee at coc@us-rse.org or reach out individually to any member of the Code of Conduct Committee.
+If you learn about a violation of this Code of Conduct, please inform the Code of Conduct Committee at [coc@us-rse.org](mailto:coc@us-rse.org) or reach out individually to any member of the Code of Conduct Committee.
 A list of current Committee members and the best way to contact them can be found here.
 Anonymous reports will be accepted.
 We will strive to keep identifying details of reporters and reports confidential unless we receive a valid court order or have another compelling reason to disclose them.
