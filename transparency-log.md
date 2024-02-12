@@ -19,7 +19,17 @@ necessary. This log is updated once every six months.
 
 ## Code of Conduct Reports and Responses
 
-Updated as of July 21, 2023. Reports listed in reverse chronological order.
+Updated as of Feb 9, 2024. Reports listed in reverse chronological order.
+
+Note: we have chosen to not include dates going forward to maintain anonymity of all involved.
+
+* Many incidents occurred at the US-RSE 2023 conference wherein people were not compliant with the masking policy. In all cases, they were asked to comply and they did so without issue.
+
+* A speaker was referred to the Code of Conduct committee because they announced that they had stopped testing positive for COVID-19 several weeks ago but still had a persistent cough. After they were offered to present remotely, they answered that they were already at the conference venue. It was determined that they could present.
+
+* A message was reported on the US-RSE Slack channel for having a harsh tone. It was determined that the exchange in question did not violate the Code of Conduct, but that further escalation of the user’s behavior would result in a warning message.
+
+* A statement during a US-RSE Zoom call was reported as an example of gendered language. It was determined that this particular language was not a violation of the Code of Conduct as it was not derogatory or exclusionary, but that further communication and discussion should be had about gendered and other biased language in US-RSE spaces.
 
 ### February 24, 2023
 
