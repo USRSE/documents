@@ -51,7 +51,7 @@ To help us respond to your report, please include as much of the following infor
 - Any documentation such as emails, private messages, photographs, police reports, texts, or notes related to the incident.
 - Information for your preferred method of contact from our Code of Conduct Committee if you wish to or are willing to be contacted for follow up questions.
 
-## Code of Conduct resposne
+## Code of Conduct response
 The Code of Conduct Committee will review all good faith reports and provide a response to the party making the report within two weeks, barring any legal requirement that prevents it.
 US-RSE and the Code of Conduct Committee will endeavor to resolve all Code of Conduct Reports within 60 days of receipt of complaint whenever possible.
 
