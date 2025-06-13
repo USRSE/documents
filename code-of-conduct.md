@@ -87,6 +87,14 @@ This can be done by opening a Pull Request to the [US-RSE documents repository](
 Your Pull Request should include a well-thought-out justification for the proposed changes.
 The Steering Committee must vote on and approve any proposed changes in order for them to be incorporated.
 
+## Code of Conduct Committee Rules
+1. No person shall serve in the Code of Conduct Committee while also serving on the Steering Committee.
+2. The Code of Conduct Committee shall have three members.
+3. The Code of Conduct Committee may, at their discretion, appoint temporary code of conduct enforcers for events such as conferences, with limited terms, with the unanimous consent of the Committee.
+4. Code of Conduct Committee members shall not serve a term of more than 3 years.
+5. The Code of Conduct Committee members shall be replaced by self-selected appointees, with the unanimous consent of the rest of the Committee.
+6. Amendments to this set of rules must be made with the approval of the Steering Committee.
+
 ## License
 
 This document is licensed under a [Creative Commons Attribution 3.0 Unported License](https://creativecommons.org/licenses/by/3.0/).
